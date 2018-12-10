@@ -1,11 +1,10 @@
-Brianna Kelley brk28
 Hanna Rakhsha h_r77
 Date Due: 11/07/2018
 Assignment: Project 2, Team 16
 
 -In Command Line go to location of file (i.e. cd Desktop/Assignments)
 -Compile program:
-	python team16_project2.py
+	python team16_project2.py -i test1_bin.txt -o team16_out
 -Should produce:
 	"team16_out_dis.txt"
 	"team16_out_sim.txt"
